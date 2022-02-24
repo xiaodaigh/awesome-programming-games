@@ -1,8 +1,5 @@
 # awesome-programming-games
 
-https://github.com/wookay/starter-snake-julia
-
-
 | Name          | Comment    | Url                            |
 |---------------|------------|--------------------------------|
 | battlesnake   |            | https://play.battlesnake.com/  |
